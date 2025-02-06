@@ -11,8 +11,7 @@ import Chat from './pages/Chat';
 import AllChats from './pages/AllChats/AllChats';
 import NotFound from './pages/NotFound';
 import Header from './components/Header';
-import Topbar from "./Admin/scenes/global/Topbar";
-import Sidebar from "./Admin/scenes/global/Sidebar";
+
 import Dashboard from "./Admin/scenes/dashboard/Dashboard";
 
 import Users from "./Admin/scenes/users";
